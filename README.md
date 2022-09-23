@@ -1,4 +1,4 @@
-# -info2180-lab1
+# info2180-lab1
 
 # INFO2180 Lab 1
 
